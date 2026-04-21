@@ -1,5 +1,6 @@
 # 💸 App de Finanças Pessoais **Finz**  
-Desenvolvido por Luiz com Vibe Coding
+Desenvolvido por mim com Vibe Coding
+Desafio da DIO
 
 ## 📑 PRD Refinado (Gemini + ChatGPT)
 
